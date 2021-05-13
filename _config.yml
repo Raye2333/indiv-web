@@ -12,7 +12,6 @@ tagline:          'A Personal Website'
 description:      'Senior, majoring Operations Research & Information Engineering at <a href="https://www.engineering.cornell.edu/programs-departments/operations-research-and-information-engineering" target="_blank">Cornell University</a>, with a minor in CS and Math.'
 url:              https://raye2333.github.io/indiv-web/
 baseurl:          ""
-encoding:         utf-8
 
 author:
   name:           'Raye Liu'
