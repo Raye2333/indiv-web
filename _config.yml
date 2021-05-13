@@ -7,15 +7,15 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Raye Liu
+title:            'Raye Liu'
 tagline:          'A Personal Website'
-description:      'Senior at <a href="https://www.engineering.cornell.edu/programs-departments/operations-research-and-information-engineering" target="_blank">Cornell University</a> majoring in ORIE & minoring in CS.'
-url:              https://raye2333.github.io/indiv-web/
-baseurl:          ""
+description:      'Senoir at Cornell University.'
+url:              http://https://raye2333.github.io/indiv-web/
+baseurl:          /
 
 author:
-  name:           'Raye Liu'
-  url:            mailto:zl285@cornell.edu
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/Raye2333/
+  repo:           https://github.com/poole/hyde
